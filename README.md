@@ -55,4 +55,4 @@ The repository currently has no CI, but the CLI entry point can be smoke-tested 
 lua expense_tracker.lua help
 ```
 
-If this fails with `lua: command not found`, install Lua as described above.
+If this fails with `lua: command not found`, install Lua as described aboves.
